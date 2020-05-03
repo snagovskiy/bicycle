@@ -165,6 +165,7 @@ date_format: "%B %-d, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Kiev"
+lang: ru
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -175,7 +176,6 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-lang: ru
   -
     scope:
       path: ""
