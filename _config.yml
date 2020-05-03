@@ -12,8 +12,9 @@ author: Александр Снаговский
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
+navbar-links:  
   О бо мне: "aboutme"
+  Покатушки: "lasttracks"
   #Resources:
     #- Фотографии: "https://flickr.com/asnagovskiy"
     #- Learn markdown: "https://www.markdowntutorial.com/"
