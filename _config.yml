@@ -42,7 +42,7 @@ round-avatar: true
 social-network-links:
   email: "asnagovskiy@ukr.net"
   facebook: snagovskiy
-  github: snagovskiy
+# github: snagovskiy
 # twitter: daattali
   rss: true
 #  reddit: yourname
