@@ -2,7 +2,7 @@
 layout: post
 title: Долина каменных лиц, Ящиково.
 cover-img: img/big-imgs/dolina-kamennykh-litc/post-dolina-kamennykh-litc.jpg
-tags: [вело, ящеково, алчевск, фото]
+tags: [вело, ящиково, алчевск, фото]
 comments: true
 ---
 
