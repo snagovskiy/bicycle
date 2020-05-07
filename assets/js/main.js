@@ -97,3 +97,14 @@ var BeautifulJekyllJS = {
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+
+$('.top').click(function() {
+  $('html, body').stop().animate({scrollTop: 0}, 'slow', 'swing');
+});
+$(window).scroll(function() {
+  if ($(this).scrollTop() > $(window).height()) {
+    $('.top').addClass("active");
+  } else {
+    $('.top').removeClass("active");
+  };
+});
