@@ -2,6 +2,7 @@
 layout: page
 title: О бо мне
 subtitle: Why you'd want to go on a date with me
+cover-img: img/big-imgs/IMG_20190517_175943.jpg
 ---
 
 My name is Inigo Montoya. I have the following qualities:
