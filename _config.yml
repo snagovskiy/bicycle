@@ -13,7 +13,7 @@ author: Александр Снаговский
 # --- List of links in the navigation bar --- #
 
 navbar-links:  
-  О бо мне: "aboutme"
+  #О бо мне: "aboutme"
   Покатушки: "lasttracks"
   #Resources:
     #- Фотографии: "https://flickr.com/asnagovskiy"
