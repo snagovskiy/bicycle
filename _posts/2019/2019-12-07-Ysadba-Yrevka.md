@@ -6,5 +6,4 @@ tags: [вело, фото]
 comments: true
 author: Александр Снаговский
 ---
-
 ![Усадьба]({{absolute_url}}/img/big-imgs/yrevka-usadba.jpg)
