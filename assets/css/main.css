@@ -929,7 +929,7 @@ pre {
   transition: all .25s ease;
   right: -100px;
   z-index: 12;
-  opacity: .5
+/*   opacity: .5 */
 }
 
 .top.active {
@@ -943,7 +943,7 @@ pre {
 .top:hover {
   color: #fff;
   background-color: {{ site.hover-col | default: "#0085A1" }};
-  opacity: 1
+/*   opacity: 1 */
 }
 
 
