@@ -15,7 +15,7 @@ author: Александр Снаговский
 navbar-links:  
   #О бо мне: "aboutme"
   Покатушки: "lasttracks"
-  #Фотки: "photos"
+  Фотки: "photos"
   #Resources:
     #- Фотографии: "https://flickr.com/asnagovskiy"
     #- Learn markdown: "https://www.markdowntutorial.com/"
