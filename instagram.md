@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Insagram
 subtitle: На телефон и на nikon
 ---
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
