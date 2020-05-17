@@ -3,7 +3,6 @@ layout: post
 title: Нестандартный маршрут в Ящиково
 subtitle: По просёлочной дороге.
 cover-img: img/big-imgs/IMG_20200515_143121.jpg
-image: img/big-imgs/IMG_20200515_143121.jpg
 tags: [вело, ящиково, фото] 
 date: 2020-05-15 20:00 
 comments: true 
