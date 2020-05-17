@@ -3,7 +3,6 @@ layout: post
 title: Поездка в Комиссаровку
 subtitle: Когда поехал в Комиссаровку, но не взял с собой удочку.
 cover-img: img/big-imgs/komissarovka/komissarovka-1.jpg
-image: /img/big-imgs/komissarovka/komissarovka-1.jpg
 tags: [вело, коммисаровка, фото]
 comments: true
 date: 2019-09-27 02:00:00 +02:00
