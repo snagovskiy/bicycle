@@ -1,8 +1,8 @@
-# Группа 1
+# Groop 1
 User-agent: Googlebot
 Disallow: /nogooglebot/
 
-# Группа 2
+# Groop 2
 User-agent: *
 Allow: /
 
