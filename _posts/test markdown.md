@@ -50,7 +50,7 @@ var foo = function(x) {
 foo(3)
 ```
 
-And here is the same code yet again but with line numbers:
+И here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
 var foo = function(x) {
