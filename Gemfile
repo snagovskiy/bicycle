@@ -1,8 +1,5 @@
 # frozen_string_literal: true
 
-# Happy Jekylling!
-gem "jekyll", "~> 3.9"
-
 source "https://rubygems.org"
 
 gemspec
