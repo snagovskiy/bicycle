@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "jekyll", "~> 3.9"
+gem "jekyll", "~> 4.0"
 gem "kramdown-parser-gfm"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
