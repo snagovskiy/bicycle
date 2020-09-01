@@ -176,6 +176,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+baseurl: https://bicycle.pp.ua/
 
 kramdown:
   input: GFM
