@@ -1,0 +1,33 @@
+---
+layout: page-gallery
+---
+
+
+
+    <h1>Gallery made with nanogallery2</h1>
+
+    <div ID="bsan2" data-nanogallery2='{
+        "flickrAPIKey": "bf4acc2a062513eeb521120b22cab013",
+        "userID": "64985267@N08",
+        "kind": "flickr",
+        "albumList2": [
+          "72157713994026117",
+          "72157627481610247",
+          "72157627481622741",
+          "72157629259320445",
+          "72157642949012783"
+        ],
+        "thumbnailWidth": "200",
+        "thumbnailHeight": "400",
+        "thumbnailBorderVertical": 0,
+        "thumbnailBorderHorizontal": 0,
+        "thumbnailLabel": {
+          "position": "overImageOnBottom"
+        },
+        "thumbnailHoverEffect2": "imageScaleIn80|imageSepiaOff|labelAppear75",
+        "thumbnailAlignment": "center",
+        "thumbnailGutterHeight": 4,
+        "thumbnailOpenImage": true
+      }'>
+
+    </div>
