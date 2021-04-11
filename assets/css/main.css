@@ -946,6 +946,9 @@ pre {
 /*   opacity: 1 */
 }
 
+#eapps-instagram-feed-1 a.eapps-link {
+    display: none !important;
+}
 
 
 
