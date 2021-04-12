@@ -6,7 +6,7 @@ subtitle: На телефон и на nikon
 <div class="elfsight-app-03c2ea8e-c8d8-48dc-84e1-223324cea00a"></div>
 
 <style>
-#eapps-instagram-feed-1 a.eapps-link {
+a.eapps-link {
     display: none !important;
 }
 </style>
