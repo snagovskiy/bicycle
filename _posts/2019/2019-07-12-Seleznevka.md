@@ -2,6 +2,8 @@
 layout: post
 title: Селезнёвка
 subtitle: Виды по пос. Селезнёвка
+cover-img: /img/big-imgs/seleznevka.jpg
+share-img: /img/big-imgs/seleznevka.jpg
 tags: [вело, селезнёвка, фото]
 comments: true
 date: 2019-07-12 02:00:00 +02:00
