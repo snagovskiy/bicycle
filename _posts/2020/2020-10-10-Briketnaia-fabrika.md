@@ -3,6 +3,7 @@ layout: post
 title: Брикетная фабрика
 subtitle: Посёлок Административный Луганской области.
 cover-img: img/big-imgs/IMG_20201010_143855.jpg
+share-im: img/big-imgs/IMG_20201010_143855.jpg
 tags: [осень, Алчевск, фото, Луганск, Брикетная фабрика] 
 date: 2020-10-10 20:00 
 comments: true 
