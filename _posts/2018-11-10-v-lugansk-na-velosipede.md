@@ -3,6 +3,7 @@ title: В Луганск на велосипеде
 date: 2018-11-10 02:00:00 +02:00
 layout: post
 cover-img: /assets/img/path.jpg
+share-img: /assets/img/path.jpg
 tags: [вело, луганск, страва]
 ---
 
