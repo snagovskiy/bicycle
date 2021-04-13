@@ -3,6 +3,7 @@ layout: post
 title: По полям под Артёмовском.
 subtitle: Субботняя покатушка по полям под Артёмовском.
 cover-img: img/big-imgs/IMG_20200620_123046.jpg
+share-img: img/big-imgs/IMG_20200620_123046.jpg
 tags: [вело, Артёмовск, фото, Брянка] 
 date: 2020-06-20 20:00 
 comments: true 
