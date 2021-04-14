@@ -1,16 +1,18 @@
 ---
 layout: page
 title: О бо мне
-subtitle: Why you'd want to go on a date with me
+subtitle: Почему тебе стала интересна эта страница?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Меня зовут Александр. Мои увлечения 😏 :
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+— Фотография 😐
+— У меня есть зелёный велосипед и я на нём катаюсь 😀
+— Аквариумистика 🤓
 
-What else do you need?
 
-### my history
+Что еще тебе нужно? 😎
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Моя история
+
+Честно говоря у меня нет времени писать эту информаци и я не занаю что тебе именно интерестно, по этому ты можешь сросить меня лично [задать вопрос](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) отвечу на **все** твои вопросы. 
