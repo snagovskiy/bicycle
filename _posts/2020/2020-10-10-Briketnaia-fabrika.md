@@ -40,7 +40,4 @@ author: Александр Снаговский
 [Источник информации](https://www.facebook.com/chronograph2/posts/2240087576275097/)
 
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-5cda817d-a3d7-4a7e-8bb1-282d54fb9a17"></div>
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/asnagovskiy/albums/72157713994026117" title="to phone"><img src="https://live.staticflickr.com/65535/49805176737_6001d02f54_h.jpg" width="100%" height="100%" alt="to phone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/asnagovskiy/albums/72157718928376179" title="Брикетная фабрика"><img src="https://live.staticflickr.com/65535/51115945783_abd8a19dec_c.jpg" width="100%" height="100%" alt="Брикетная фабрика"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
