@@ -18,7 +18,7 @@ navbar-links:
   #Resources:
     #- Фотографии: "https://flickr.com/asnagovskiy"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Фотографии: "gallery"
+  #Фотографии: "gallery"
 
 # --- Logo --- #
 
@@ -40,21 +40,21 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "kroser@i.ua"
+# email: "kroser@i.ua"
   facebook: snagovskiy
 # github: snagovskiy
-# twitter: daattali
+# twitter: muzaboz
   rss: true
-#  reddit: yourname
-#  linkedin: daattali
+#  reddit: muzaboz
+#  linkedin: 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+#  snapchat: 
   instagram: snagoff
-#  youtube: user/deanat78
+#  youtube: 
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: 
+#  steam: 
 #  twitch: yourname
 #  yelp: yourname
   telegram: snagoff
