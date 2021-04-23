@@ -41,11 +41,3 @@ author: Александр Снаговский
 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/asnagovskiy/albums/72157718928376179" title="Брикетная фабрика"><img src="https://live.staticflickr.com/65535/51115945783_abd8a19dec_c.jpg" width="100%" height="100%" alt="Брикетная фабрика"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<div id="cincopa_0da306">...</div><script type="text/javascript">
-var cpo = []; cpo["_object"] ="cincopa_0da306"; cpo["_fid"] = "AYCAwxOrQnmO";
-var _cpmp = _cpmp || []; _cpmp.push(cpo);
-(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
-cp.async = true; cp.src = "https://rtcdn.cincopa.com/libasync.js";
-var c = document.getElementsByTagName("script")[0];
-c.parentNode.insertBefore(cp, c); })(); </script>
