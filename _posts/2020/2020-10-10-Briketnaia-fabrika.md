@@ -39,5 +39,54 @@ author: Александр Снаговский
 Интересные факты: - Несмотря на то, что Брикетная фабрика находилась в непосредственной близости от завода ДЮМО, и по имеющимся данным, входила в состав этого акционерного общества (видимо ЖСШ было перекуплено у его владельцев уже после смерти Алчевского в 1901 году), вопреки бытующему мнению, она никогда не производила брикетов для алчевского завода. Попросту потому, что брикеты не использовались в технологии металлургического производства; - Брикетная фабрика, находившаяся на территории современного Алчевска, вначале ХХ века стала самой крупной на территории Российской империи с объемом производства в 18 млн. пудов в год;- Жиловка (поселок им. Горького) представляла собой не село (как Васильевка), а именно поселок рабочих, поэтому ее правильное название « рабочий поселок Жилловского рудника». Само имение помещицы Жилло – село Жиловка, согласно карте того времени, находилось примерно там, где сейчас находится поселок Административный.
 [Источник информации](https://www.facebook.com/chronograph2/posts/2240087576275097/)
 
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51115945783_18964bd26a_k.jpg">
+	<img src="https://live.staticflickr.com/65535/51115945783_abd8a19dec_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/asnagovskiy/albums/72157718928376179" title="Брикетная фабрика"><img src="https://live.staticflickr.com/65535/51115945783_abd8a19dec_c.jpg" width="100%" height="100%" alt="Брикетная фабрика"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51115467312_a424ec2dca_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51115467312_b02ed9b304_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51115467877_aa574c910f_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51115467877_01c99b1e96_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51116830065_13299469d6_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51116830065_c02d8f76f7_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51116035351_bc0bd049a8_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51116035351_3faa97ac57_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51116035286_c8a8f4c679_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51116035286_4ab97da770_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51115786179_38d5184f6c_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51115786179_65359c5d8f_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51116035111_7b723c863b_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51116035111_5bc51d8a5a_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51115467412_355b7b625a_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51115467412_1bbbca3008_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51116034851_d61ad50252_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51116034851_be3688e642_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51116034796_95c8847b4b_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51116034796_968b60a53f_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51115785549_55af00fd27_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51115785549_7e1733e962_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
+
+<a class="image-popup-no-margins" href="https://live.staticflickr.com/65535/51116034616_1c0a8fccbc_k_d.jpg">
+	<img src="https://live.staticflickr.com/65535/51116034616_31fb262cbe_c_d.jpg" alt="Брикетная фабрика Алчевск" width="100%" height="100%">
+</a>
