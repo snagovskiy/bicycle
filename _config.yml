@@ -12,9 +12,12 @@ author: Бикукле
 # --- List of links in the navigation bar --- #
 
 # Шрифты #
-
-#h-font: "Open+Sans"
-#font: "Lora"
+# Шрифты для html #
+#h-html-font: "Open+Sans"
+#html-font: "Lora"
+# Шрифты для CSS #
+#h-css-font: "Open+Sans"
+#css-font: "Lora"
 
 navbar-links:  
   О бо мне: "aboutme"
