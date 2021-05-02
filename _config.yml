@@ -16,7 +16,7 @@ author: Бикукле
 h-html-font: "Open+Sans"
 html-font: "Lora"
 # Шрифты для CSS #
-h-css-font: "Open+Sans"
+h-css-font: "Open Sans"
 css-font: "Lora"
 
 navbar-links:  
