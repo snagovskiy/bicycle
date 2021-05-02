@@ -13,8 +13,8 @@ author: Бикукле
 
 # Шрифты #
 
-#h-font:
-#font:
+#h-font: "Open+Sans"
+#font: "Lora"
 
 navbar-links:  
   О бо мне: "aboutme"
