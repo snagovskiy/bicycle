@@ -13,11 +13,11 @@ author: Бикукле
 
 # Шрифты #
 # Шрифты для html #
-#h-html-font: "Open+Sans"
-#html-font: "Lora"
+h-html-font: "Open+Sans"
+html-font: "Lora"
 # Шрифты для CSS #
-#h-css-font: "Open+Sans"
-#css-font: "Lora"
+h-css-font: "Open+Sans"
+css-font: "Lora"
 
 navbar-links:  
   О бо мне: "aboutme"
