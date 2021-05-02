@@ -11,6 +11,11 @@ description: Алчевск, вело, блог, путишествия, фот�
 author: Бикукле
 # --- List of links in the navigation bar --- #
 
+# Шрифты #
+
+#h-font:
+#font:
+
 navbar-links:  
   О бо мне: "aboutme"
   Покатушки: "track"
