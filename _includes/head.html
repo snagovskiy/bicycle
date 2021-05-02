@@ -11,6 +11,9 @@
 
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator | default: '-' }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> 
   
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ site.html-font }}:400,700,400italic,700italic">         
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ site.h-html-font }}:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+  
   {% if site.author %}
   <meta name="author" content="{{ site.author }}">
   {% endif %}
