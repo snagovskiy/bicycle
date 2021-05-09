@@ -8,4 +8,7 @@ tags: [вело, фото]
 comments: true
 author: Александр Снаговский
 ---
-![Усадьба]({{absolute_url}}/img/big-imgs/yrevka-usadba.jpg)
+
+<a class="image-popup-no-margins" href="{{absolute_url}}/img/big-imgs/yrevka-usadba.jpg">
+	<img src="{{absolute_url}}/img/big-imgs/yrevka-usadba.jpg" alt="Усадьба в пос. Юрьевка Луганская область" width="100%" height="100%">
+</a>
