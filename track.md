@@ -5,4 +5,4 @@ subtitle: Мои последние маршруты как развлекате
 cover-img: /img/big-imgs/IMG_20190919_145621-01c.jpeg
 share-img: /img/big-imgs/IMG_20190919_145621-01c.jpeg
 ---
-<iframe src="https://www.komoot.com/user/729222854474/embed?stats=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe frameborder="0" height="100%" scrolling="no" src="https://www.strava.com/athletes/35104903/latest-rides/42e85c0c9a5a509066444a724f189aad514a727a" width="100%"></iframe>
